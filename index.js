@@ -10,7 +10,7 @@ app.use(cors())
 
 app.get('/', (req, res)=>{
     res.send('chef project is running')
-})
+})  
 
 
 app.get('/categories',(req,res)=>{
