@@ -15,6 +15,13 @@
         "experience": "30 Years"
        
       },
+      "recipes": {
+        "rs_1": "Paneer Lababdar Recipe.",
+        "rs_2": "Gordon Ramsay Recipe ",
+        "rs_3": "Misal Pav Recipe.",
+        "rs_4": "Ragda Patties Recipe."
+       
+      },
      
       "image_url": "https://nerdyfoodies.com/wp-content/uploads/2020/10/Famous-Chinese-Chefs.jpg"
       
@@ -33,6 +40,13 @@
       "author": {
         "name": "Jimmy Dane",
         "experience": "32 Years"
+      },
+      "recipes": {
+        "rs_1": "Chaat. ",
+        "rs_2": "Dal makhani. . ",
+        "rs_3": "Vada pav. .",
+        "rs_4": " Stuffed paratha. ..."
+       
       },
      
       "image_url": "https://www.reviewjournal.com/wp-content/uploads/2023/02/17488478_web1_web_M.Y.-Asia_Martin-Yan-Dishes.jpg?crop=1"
@@ -55,6 +69,13 @@
         "name": "Jennifer Wood",
         "experience": "30 Years"
       },
+      "recipes": {
+        "rs_1": "Paneer Lababdar Recipe.",
+        "rs_2": "Gordon Ramsay Recipe ",
+        "rs_3": "Misal Pav Recipe.",
+        "rs_4": "Ragda Patties Recipe."
+       
+      },
      
       "image_url": "https://www.doyouknowturkey.com/wp-content/uploads/2019/09/nusret.jpg",
       "details":" The second in command in the kitchen responsible for supervising the kitchen staff, creating menus, and ensuring that food is prepared and cooked to perfection"
@@ -73,6 +94,13 @@
       "author": {
         "name": "Jamie Oliver",
         "experience": "20 Years"
+      },
+      "recipes": {
+        "rs_1": "Chaat. ",
+        "rs_2": "Dal makhani. . ",
+        "rs_3": "Vada pav. .",
+        "rs_4": " Stuffed paratha. ..."
+       
       },
       
       "image_url": "https://www.edudwar.com/wp-content/uploads/2022/09/Alain-Ducasse-1280x720.jpg",
@@ -94,6 +122,13 @@
         "name": "Massimo Bottura",
         "experience": "30 Years"
       },
+      "recipes": {
+        "rs_1": "Carbohydrates. .... ",
+        "rs_2": "Proteins. .... ",
+        "rs_3": "Minerals. ..",
+        "rs_4": " Dietary fibre.."
+       
+      },
       
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-sXi5JohdBvHOMdUtYJn2S4aAC86NpLmAsEfHLBFEUEf2vwgcSFS67lNq-EH-DGNa8UI&usqp=CAU",
       "details":"A chef responsible for preparing ingredients, such as chopping vegetables, seasoning meats, and preparing sauces, to be used in cooking."
@@ -112,6 +147,13 @@
       "author": {
         "name": "Heston Blumenthal",
         "experience": "10 Years"
+      },
+      "recipes": {
+        "rs_1": "Carbohydrates. .... ",
+        "rs_2": "Proteins. .... ",
+        "rs_3": "Minerals. ..",
+        "rs_4": " Dietary fibre.."
+       
       },
      
       "image_url": "https://images.mid-day.com/images/images/2015/sep/Chef-Floyd-Cardoz-at-The-Bo.jpg",
@@ -135,6 +177,13 @@
         "name": "Wolfgang Puck",
         "experience": "40 Years"
       },
+      "recipes": {
+        "rs_1": "Carbohydrates. .... ",
+        "rs_2": "Proteins. .... ",
+        "rs_3": "Minerals. ..",
+        "rs_4": " Dietary fibre.."
+       
+      },
     
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrevho8wmMpyxX1NQEzM52kOxanRmUVFd0wA&usqp=CAU"
     },
@@ -153,6 +202,13 @@
       "author": {
         "name": "Theo Minh Châu",
         "experience": "10 Years"
+      },
+      "recipes": {
+        "rs_1": "Carbohydrates. .... ",
+        "rs_2": "Proteins. .... ",
+        "rs_3": "Minerals. ..",
+        "rs_4": " Dietary fibre.."
+       
       },
      
       "image_url": "https://images.mid-day.com/images/images/2015/sep/Chef-Floyd-Cardoz-at-The-Bo.jpg",
@@ -173,6 +229,14 @@
         "name": "Theo Minh Châu",
         "experience": "30 Years"
       },
+      "recipes": {
+        "rs_1": "Paneer Lababdar Recipe.",
+        "rs_2": "Gordon Ramsay Recipe ",
+        "rs_3": "Misal Pav Recipe.",
+        "rs_4": "Ragda Patties Recipe."
+       
+      },
+     
      
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrevho8wmMpyxX1NQEzM52kOxanRmUVFd0wA&usqp=CAU",
       "details":"A chef who works for an individual or family, preparing meals in a private residence"
@@ -193,6 +257,14 @@
         "name": "Ukrainska Pravda",
         "experience": "30 Years"
       },
+      "recipes": {
+        "rs_1": "Paneer Lababdar Recipe.",
+        "rs_2": "Gordon Ramsay Recipe ",
+        "rs_3": "Misal Pav Recipe.",
+        "rs_4": "Ragda Patties Recipe."
+       
+      },
+     
       
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxUg6A7-dcJJsqy8X2CuMT3s68VNEEceKOg&usqp=CAU",
       "details":"A chef who works for an individual or family, preparing meals in a private residence"
@@ -212,6 +284,14 @@
         "name": "Ukrainska Pravda",
         "experience": "30 Years"
       },
+      "recipes": {
+        "rs_1": "Paneer Lababdar Recipe.",
+        "rs_2": "Gordon Ramsay Recipe ",
+        "rs_3": "Misal Pav Recipe.",
+        "rs_4": "Ragda Patties Recipe."
+       
+      },
+     
      
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxUg6A7-dcJJsqy8X2CuMT3s68VNEEceKOg&usqp=CAU"
       ,
@@ -235,6 +315,14 @@
         "experience": "30 Years",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1b0sNDZybMLsAotwUBxKwGV-vqZAI4Gu1HFSs9G25Kt6fmkwDaurgVr8ngu-u3W1eB0A&usqp=CAU"
       },
+      "recipes": {
+        "rs_1": "Paneer Lababdar Recipe.",
+        "rs_2": "Gordon Ramsay Recipe ",
+        "rs_3": "Misal Pav Recipe.",
+        "rs_4": "Ragda Patties Recipe."
+       
+      },
+     
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
       "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
       "details":"A chef who specializes in creating menus and preparing food for large events, such as weddings and corporate functions."
@@ -257,6 +345,14 @@
         "experience": "10 Years",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
+      "recipes": {
+        "rs_1": "Paneer Lababdar Recipe.",
+        "rs_2": "Gordon Ramsay Recipe ",
+        "rs_3": "Misal Pav Recipe.",
+        "rs_4": "Ragda Patties Recipe."
+       
+      },
+     
       "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1b0sNDZybMLsAotwUBxKwGV-vqZAI4Gu1HFSs9G25Kt6fmkwDaurgVr8ngu-u3W1eB0A&usqp=CAU"
       ,"details":"A chef who specializes in creating menus and preparing food for large events, such as weddings and corporate functions."
@@ -277,6 +373,14 @@
         "experience": "10 Years",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
+      "recipes": {
+        "rs_1": "Paneer Lababdar Recipe.",
+        "rs_2": "Gordon Ramsay Recipe ",
+        "rs_3": "Misal Pav Recipe.",
+        "rs_4": "Ragda Patties Recipe."
+       
+      },
+     
       "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOY5sUfptkI8nwzFH9ViBJ1swPdmUwIlt67w&usqp=CAU"
       ,"details":"A chef who specializes in creating menus and preparing food for large events, such as weddings and corporate functions."
@@ -297,6 +401,14 @@
         "experience": "10 Years",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
+      "recipes": {
+        "rs_1": "Paneer Lababdar Recipe.",
+        "rs_2": "Gordon Ramsay Recipe ",
+        "rs_3": "Misal Pav Recipe.",
+        "rs_4": "Ragda Patties Recipe."
+       
+      },
+     
       "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOY5sUfptkI8nwzFH9ViBJ1swPdmUwIlt67w&usqp=CAU"
     },
@@ -317,6 +429,14 @@
         "experience": "20 Years",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
+      "recipes": {
+        "rs_1": "Paneer Lababdar Recipe.",
+        "rs_2": "Gordon Ramsay Recipe ",
+        "rs_3": "Misal Pav Recipe.",
+        "rs_4": "Ragda Patties Recipe."
+       
+      },
+     
       "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
       "image_url": "https://static.careers360.mobi/media/presets/940X500/articles/uploads/froala_editor/images/2020/4/11/akis-petretzikis.webp",
       "details":"A chef who specializes in creating menus and preparing food for large events, such as weddings and corporate functions."
@@ -338,6 +458,14 @@
         "experience": "20 Years",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
+      "recipes": {
+        "rs_1": "Paneer Lababdar Recipe.",
+        "rs_2": "Gordon Ramsay Recipe ",
+        "rs_3": "Misal Pav Recipe.",
+        "rs_4": "Ragda Patties Recipe."
+       
+      },
+     
       "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
       "image_url": "https://static.careers360.mobi/media/presets/940X500/articles/uploads/froala_editor/images/2020/4/11/akis-petretzikis.webp",
       "experience": "2022-08-24 18:00:00",
@@ -359,6 +487,14 @@
         "experience": "2022-08-30 17:44:16",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
+      "recipes": {
+        "rs_1": "Paneer Lababdar Recipe.",
+        "rs_2": "Gordon Ramsay Recipe ",
+        "rs_3": "Misal Pav Recipe.",
+        "rs_4": "Ragda Patties Recipe."
+       
+      },
+     
       "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRsdZ4lk3LtS8UcZAkUJmrEZJiLVn-KOiA4djJ4XWM4eX0AOcqDFAzEji-nL0N1DwiyIU&usqp=CAU"
       ,"details":"- A chef who has gained fame and popularity through television appearances, cookbooks, and other media."
@@ -380,6 +516,15 @@
         "experience": "2022-08-26 00:37:24",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
+
+      "recipes": {
+        "rs_1": "Paneer Lababdar Recipe.",
+        "rs_2": "Gordon Ramsay Recipe ",
+        "rs_3": "Misal Pav Recipe.",
+        "rs_4": "Ragda Patties Recipe."
+       
+      },
+     
       "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRsdZ4lk3LtS8UcZAkUJmrEZJiLVn-KOiA4djJ4XWM4eX0AOcqDFAzEji-nL0N1DwiyIU&usqp=CAU",
       "details":"- A chef who has gained fame and popularity through television appearances, cookbooks, and other media."
@@ -401,6 +546,14 @@
         "experience": "2022-08-26 00:37:24",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
+      "recipes": {
+        "rs_1": "Paneer Lababdar Recipe.",
+        "rs_2": "Gordon Ramsay Recipe ",
+        "rs_3": "Misal Pav Recipe.",
+        "rs_4": "Ragda Patties Recipe."
+       
+      },
+     
       "thumbnail_url": "https://i.ibb.co/1rcTYYB/unsplash-Eh-Tc-C9s-YXsw-16.png",
       "image_url": "https://static.careers360.mobi/media/presets/940X500/articles/uploads/froala_editor/images/2020/4/11/akis-petretzikis.webp",
       "details":"- A chef who has gained fame and popularity through television appearances, cookbooks, and other media."
