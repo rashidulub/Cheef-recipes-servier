@@ -60,9 +60,9 @@
       },
       "recipes": {
         "rs_1": "Chaat. ",
-        "rs_2": "Dal makhani. . ",
+        "rs_4": "Dal makhani. . ",
         "rs_3": "Vada pav. .",
-        "rs_4": " Stuffed paratha. ..."
+        "rs_2": " Stuffed paratha. ..."
        
       },
       "cook": {
@@ -75,8 +75,8 @@
       },
       "recipes_img": {
         "img_1": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
-        "img_2": "https://media.istockphoto.com/id/1165399909/photo/delicious-meal-on-a-black-plate-top-view-copy-space.jpg?s=170667a&w=is&k=20&c=CmMEfgr8Fxte2xOOStGeXxoFRAuK_Af7LahAZWWkUMM= ",
-        "img_3": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
+        "img_3": "https://media.istockphoto.com/id/1165399909/photo/delicious-meal-on-a-black-plate-top-view-copy-space.jpg?s=170667a&w=is&k=20&c=CmMEfgr8Fxte2xOOStGeXxoFRAuK_Af7LahAZWWkUMM= ",
+        "img_2": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
         "img_4": "https://media.cnn.com/api/v1/images/stellar/prod/170913134128-gettyimages-78202765.jpg?q=w_3531,h_2433,x_0,y_0,c_fill/w_1280"
 
        
@@ -104,10 +104,10 @@
         "experience": "30 Years"
       },
       "recipes": {
-        "rs_1": "Paneer Lababdar Recipe.",
+        "rs_4": "Paneer Lababdar Recipe.",
         "rs_2": "Gordon Ramsay Recipe ",
-        "rs_3": "Misal Pav Recipe.",
-        "rs_4": "Ragda Patties Recipe."
+        "rs_1": "Misal Pav Recipe.",
+        "rs_3": "Ragda Patties Recipe."
        
       },
       "cook": {
@@ -119,9 +119,9 @@
        
       },
       "recipes_img": {
-        "img_1": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
-        "img_2": "https://media.istockphoto.com/id/1165399909/photo/delicious-meal-on-a-black-plate-top-view-copy-space.jpg?s=170667a&w=is&k=20&c=CmMEfgr8Fxte2xOOStGeXxoFRAuK_Af7LahAZWWkUMM= ",
-        "img_3": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
+        "img_2": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
+        "img_3": "https://media.istockphoto.com/id/1165399909/photo/delicious-meal-on-a-black-plate-top-view-copy-space.jpg?s=170667a&w=is&k=20&c=CmMEfgr8Fxte2xOOStGeXxoFRAuK_Af7LahAZWWkUMM= ",
+        "img_1": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
         "img_4": "https://media.cnn.com/api/v1/images/stellar/prod/170913134128-gettyimages-78202765.jpg?q=w_3531,h_2433,x_0,y_0,c_fill/w_1280"
 
        
@@ -148,9 +148,9 @@
       },
       "recipes": {
         "rs_1": "Chaat. ",
-        "rs_2": "Dal makhani. . ",
-        "rs_3": "Vada pav. .",
-        "rs_4": " Stuffed paratha. ..."
+        "rs_4": "Dal makhani. . ",
+        "rs_2": "Vada pav. .",
+        "rs_3": " Stuffed paratha. ..."
        
       },
       "cook": {
@@ -163,9 +163,9 @@
       },
       "recipes_img": {
         "img_1": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
-        "img_2": "https://media.istockphoto.com/id/1165399909/photo/delicious-meal-on-a-black-plate-top-view-copy-space.jpg?s=170667a&w=is&k=20&c=CmMEfgr8Fxte2xOOStGeXxoFRAuK_Af7LahAZWWkUMM= ",
-        "img_3": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
-        "img_4": "https://media.cnn.com/api/v1/images/stellar/prod/170913134128-gettyimages-78202765.jpg?q=w_3531,h_2433,x_0,y_0,c_fill/w_1280"
+        "img_4": "https://media.istockphoto.com/id/1165399909/photo/delicious-meal-on-a-black-plate-top-view-copy-space.jpg?s=170667a&w=is&k=20&c=CmMEfgr8Fxte2xOOStGeXxoFRAuK_Af7LahAZWWkUMM= ",
+        "img_2": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
+        "img_3": "https://media.cnn.com/api/v1/images/stellar/prod/170913134128-gettyimages-78202765.jpg?q=w_3531,h_2433,x_0,y_0,c_fill/w_1280"
 
        
       },
@@ -191,10 +191,10 @@
         "experience": "30 Years"
       },
       "recipes": {
-        "rs_1": "Carbohydrates. .... ",
-        "rs_2": "Proteins. .... ",
-        "rs_3": "Minerals. ..",
-        "rs_4": " Dietary fibre.."
+        "rs_3": "Carbohydrates. .... ",
+        "rs_1": "Proteins. .... ",
+        "rs_4": "Minerals. ..",
+        "rs_2": " Dietary fibre.."
        
       },
       "cook": {
@@ -242,17 +242,17 @@
        
       },
       "recipes": {
-        "rs_1": "Carbohydrates. .... ",
-        "rs_2": "Proteins. .... ",
+        "rs_4": "Carbohydrates. .... ",
+        "rs_1": "Proteins. .... ",
         "rs_3": "Minerals. ..",
-        "rs_4": " Dietary fibre.."
+        "rs_2": " Dietary fibre.."
        
       },
       "recipes_img": {
-        "img_1": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
+        "img_4": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
         "img_2": "https://media.istockphoto.com/id/1165399909/photo/delicious-meal-on-a-black-plate-top-view-copy-space.jpg?s=170667a&w=is&k=20&c=CmMEfgr8Fxte2xOOStGeXxoFRAuK_Af7LahAZWWkUMM= ",
         "img_3": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
-        "img_4": "https://media.cnn.com/api/v1/images/stellar/prod/170913134128-gettyimages-78202765.jpg?q=w_3531,h_2433,x_0,y_0,c_fill/w_1280"
+        "img_1": "https://media.cnn.com/api/v1/images/stellar/prod/170913134128-gettyimages-78202765.jpg?q=w_3531,h_2433,x_0,y_0,c_fill/w_1280"
 
        
       },
@@ -288,17 +288,17 @@
        
       },
       "recipes": {
-        "rs_1": "Carbohydrates. .... ",
-        "rs_2": "Proteins. .... ",
+        "rs_2": "Carbohydrates. .... ",
+        "rs_4": "Proteins. .... ",
         "rs_3": "Minerals. ..",
-        "rs_4": " Dietary fibre.."
+        "rs_1": " Dietary fibre.."
        
       },
       "recipes_img": {
         "img_1": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
-        "img_2": "https://media.istockphoto.com/id/1165399909/photo/delicious-meal-on-a-black-plate-top-view-copy-space.jpg?s=170667a&w=is&k=20&c=CmMEfgr8Fxte2xOOStGeXxoFRAuK_Af7LahAZWWkUMM= ",
+        "img_4": "https://media.istockphoto.com/id/1165399909/photo/delicious-meal-on-a-black-plate-top-view-copy-space.jpg?s=170667a&w=is&k=20&c=CmMEfgr8Fxte2xOOStGeXxoFRAuK_Af7LahAZWWkUMM= ",
         "img_3": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
-        "img_4": "https://media.cnn.com/api/v1/images/stellar/prod/170913134128-gettyimages-78202765.jpg?q=w_3531,h_2433,x_0,y_0,c_fill/w_1280"
+        "img_2": "https://media.cnn.com/api/v1/images/stellar/prod/170913134128-gettyimages-78202765.jpg?q=w_3531,h_2433,x_0,y_0,c_fill/w_1280"
 
        
       },
@@ -332,15 +332,15 @@
       },
       "recipes": {
         "rs_1": "Carbohydrates. .... ",
-        "rs_2": "Proteins. .... ",
-        "rs_3": "Minerals. ..",
+        "rs_3": "Proteins. .... ",
+        "rs_2": "Minerals. ..",
         "rs_4": " Dietary fibre.."
        
       },
       "recipes_img": {
-        "img_1": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
+        "img_3": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
         "img_2": "https://media.istockphoto.com/id/1165399909/photo/delicious-meal-on-a-black-plate-top-view-copy-space.jpg?s=170667a&w=is&k=20&c=CmMEfgr8Fxte2xOOStGeXxoFRAuK_Af7LahAZWWkUMM= ",
-        "img_3": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
+        "img_1": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
         "img_4": "https://media.cnn.com/api/v1/images/stellar/prod/170913134128-gettyimages-78202765.jpg?q=w_3531,h_2433,x_0,y_0,c_fill/w_1280"
 
        
@@ -375,15 +375,15 @@
       },
       "recipes": {
         "rs_1": "Paneer Lababdar Recipe.",
-        "rs_2": "Gordon Ramsay Recipe ",
+        "rs_4": "Gordon Ramsay Recipe ",
         "rs_3": "Misal Pav Recipe.",
-        "rs_4": "Ragda Patties Recipe."
+        "rs_2": "Ragda Patties Recipe."
        
       },
       "recipes_img": {
-        "img_1": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
+        "img_3": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
         "img_2": "https://media.istockphoto.com/id/1165399909/photo/delicious-meal-on-a-black-plate-top-view-copy-space.jpg?s=170667a&w=is&k=20&c=CmMEfgr8Fxte2xOOStGeXxoFRAuK_Af7LahAZWWkUMM= ",
-        "img_3": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
+        "img_1": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
         "img_4": "https://media.cnn.com/api/v1/images/stellar/prod/170913134128-gettyimages-78202765.jpg?q=w_3531,h_2433,x_0,y_0,c_fill/w_1280"
 
        
@@ -419,15 +419,15 @@
        
       },
       "recipes": {
-        "rs_1": "Paneer Lababdar Recipe.",
-        "rs_2": "Gordon Ramsay Recipe ",
-        "rs_3": "Misal Pav Recipe.",
-        "rs_4": "Ragda Patties Recipe."
+        "rs_2": "Paneer Lababdar Recipe.",
+        "rs_1": "Gordon Ramsay Recipe ",
+        "rs_4": "Misal Pav Recipe.",
+        "rs_3": "Ragda Patties Recipe."
        
       },"recipes_img": {
-        "img_1": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
+        "img_3": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
         "img_2": "https://media.istockphoto.com/id/1165399909/photo/delicious-meal-on-a-black-plate-top-view-copy-space.jpg?s=170667a&w=is&k=20&c=CmMEfgr8Fxte2xOOStGeXxoFRAuK_Af7LahAZWWkUMM= ",
-        "img_3": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
+        "img_1": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
         "img_4": "https://media.cnn.com/api/v1/images/stellar/prod/170913134128-gettyimages-78202765.jpg?q=w_3531,h_2433,x_0,y_0,c_fill/w_1280"
 
        
@@ -471,8 +471,8 @@
       "recipes_img": {
         "img_1": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
         "img_2": "https://media.istockphoto.com/id/1165399909/photo/delicious-meal-on-a-black-plate-top-view-copy-space.jpg?s=170667a&w=is&k=20&c=CmMEfgr8Fxte2xOOStGeXxoFRAuK_Af7LahAZWWkUMM= ",
-        "img_3": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
-        "img_4": "https://media.cnn.com/api/v1/images/stellar/prod/170913134128-gettyimages-78202765.jpg?q=w_3531,h_2433,x_0,y_0,c_fill/w_1280"
+        "img_4": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
+        "img_3": "https://media.cnn.com/api/v1/images/stellar/prod/170913134128-gettyimages-78202765.jpg?q=w_3531,h_2433,x_0,y_0,c_fill/w_1280"
 
        
       },
@@ -509,17 +509,17 @@
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1b0sNDZybMLsAotwUBxKwGV-vqZAI4Gu1HFSs9G25Kt6fmkwDaurgVr8ngu-u3W1eB0A&usqp=CAU"
       },
       "recipes": {
-        "rs_1": "Paneer Lababdar Recipe.",
-        "rs_2": "Gordon Ramsay Recipe ",
-        "rs_3": "Misal Pav Recipe.",
-        "rs_4": "Ragda Patties Recipe."
+        "rs_4": "Paneer Lababdar Recipe.",
+        "rs_3": "Gordon Ramsay Recipe ",
+        "rs_2": "Misal Pav Recipe.",
+        "rs_1": "Ragda Patties Recipe."
        
       },
       "recipes_img": {
-        "img_1": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
+        "img_4": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=x_161,y_0,h_720,w_960,c_crop",
         "img_2": "https://media.istockphoto.com/id/1165399909/photo/delicious-meal-on-a-black-plate-top-view-copy-space.jpg?s=170667a&w=is&k=20&c=CmMEfgr8Fxte2xOOStGeXxoFRAuK_Af7LahAZWWkUMM= ",
-        "img_3": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
-        "img_4": "https://media.cnn.com/api/v1/images/stellar/prod/170913134128-gettyimages-78202765.jpg?q=w_3531,h_2433,x_0,y_0,c_fill/w_1280"
+        "img_1": "https://thumbs.dreamstime.com/b/beautiful-tasty-food-plate-exquisite-dish-creative-restaurant-meal-concept-163787921.jpg",
+        "img_3": "https://media.cnn.com/api/v1/images/stellar/prod/170913134128-gettyimages-78202765.jpg?q=w_3531,h_2433,x_0,y_0,c_fill/w_1280"
 
        
       },
